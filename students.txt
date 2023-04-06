@@ -1,3 +1,13 @@
-Aziz BT21CSE076 P C M B CS
-Anshu BT21CSE080 P C M B CS
-Babloo BT21CSE092 P C M B CS
+Rohan 101 1 2 8 5 6 
+shakambari 102 4 5 6 7 1
+Raghu1 201 2 4 6 5 1
+Raghu2 202 7 4 6 5 1
+Mohan1 301 4 5 3 1 6
+Mohan3 303 7 5 4 1 6
+Mohan4 304 4 2 5 1 6
+Mohan5 305 2 8 5 1 6
+Mohan6 306 7 8 5 1 6
+Mohan2 302 2 5 4 1 6
+Mohan5 305 2 8 5 1 6
+Mohan6 306 7 8 5 1 6
+Mohan2 302 2 5 4 1 6
